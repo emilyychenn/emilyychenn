@@ -15,7 +15,8 @@ I'm a sophmore at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studyin
 
 Looking for summer 2021 opportunities! Or just a coffee chat 😊
 
-[linkedIn](https://www.linkedin.com/in/emily-c-55680b124/)
-[email](emilylynnchen@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emily-c-55680b124/)<br/>
+
+[Email](emilylynnchen@gmail.com)
 
 
