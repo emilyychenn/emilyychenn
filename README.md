@@ -17,6 +17,6 @@ I'm a sophmore at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studyin
 
 ## Reach Out
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/emily-c-55680b124/) or reach out via email ([emilylynnchen@gmail.com]). Always looking to meet new people and make new friends 😊
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/emily-c-55680b124/) or reach out via email (emilylynnchen@gmail.com). Always looking to meet new people and make new friends 😊
 
 
