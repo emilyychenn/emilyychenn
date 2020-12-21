@@ -15,7 +15,7 @@ I'm a sophmore at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studyin
 
 <br/>
 
-## Reach out to me:
+## Reach Out
 
 Looking for summer 2021 opportunities! Or just a coffee chat 😊
 
