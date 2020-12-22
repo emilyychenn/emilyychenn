@@ -1,6 +1,6 @@
 # Hello World, I'm Emily 👋
 
-I'm a sophmore at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science and Cellular, Anatomical & Physiological Sciences. I'm fascinated by the intersection between society, health care, and computing!!
+I'm a sophmore at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science and Cellular, Anatomical & Physiological Sciences. I'm fascinated by the intersection between society, health care, and computing!
 
 <br/>
 
