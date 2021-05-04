@@ -1,6 +1,6 @@
 # Hello World, I'm Emily 👋
 
-I'm a sophmore at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science and Cellular, Anatomical & Physiological Sciences. I'm fascinated by the intersection between society, health care, and computing!
+I just finished my sophmore year at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science and Cellular, Anatomical & Physiological Sciences. I'm fascinated by the intersection between society, health care, and computing!
 
 <br/>
 
@@ -8,7 +8,7 @@ I'm a sophmore at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studyin
 ## About Me
 
 - 📍  Originally from Ottawa, Ontario. Currently located in Vancouver, BC!
-- 🌱  Working on [pyLeafletTiler](https://github.com/emilyychenn/pyLeafletTiler-Sandbox), a collection of code to create tiles of histo images to allow display using the [Leaflet JavaScript library](https://leafletjs.com/).
+- 🌱  Currently self-learning React
 - 💻  TAing an introductory computer science course
 - 🌐  Feel free to visit my [website](https://emilylynnchen.netlify.app/) to learn more!
 
