@@ -7,7 +7,7 @@ I just finished my sophmore year at [UBC](https://www.ubc.ca/) in Vancouver, BC,
 
 ## About Me
 
-- 📍  Originally from Ottawa, Ontario. Currently located in Vancouver, BC!
+- 📍  Originally from Ottawa, Ontario; currently located in Vancouver, BC
 - 🌱  Currently self-learning React
 - 💻  TAing an introductory computer science course
 - 🌐  Feel free to visit my [website](https://emilylynnchen.netlify.app/) to learn more!
