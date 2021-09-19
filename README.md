@@ -1,6 +1,6 @@
 # Hello World, I'm Emily 👋
 
-I just finished my sophmore year at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science and Cellular, Anatomical & Physiological Sciences. I'm fascinated by the intersection between society, health care, and computing!
+I'm in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science. I'm fascinated by the intersection between society, health care, and computing!
 
 <br/>
 
@@ -8,8 +8,8 @@ I just finished my sophmore year at [UBC](https://www.ubc.ca/) in Vancouver, BC,
 ## About Me
 
 - 📍  Originally from Ottawa, Ontario; currently located in Vancouver, BC
-- 🌱  Currently self-learning React
-- 💻  TAing an introductory computer science course
+- 🌱  Currently learning Typescript, NodeJS, and React
+- 💻  TAing a second-year computer science course
 - 🌐  Feel free to visit my [website](https://emilylynnchen.netlify.app/) to learn more!
 
 
