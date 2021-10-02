@@ -1,6 +1,6 @@
 # Hello World, I'm Emily 👋
 
-I'm in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science. I'm fascinated by the intersection between society, health care, and computing!
+I'm in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science and Business Management. I'm fascinated by the intersection between society, health care, and computing!
 
 <br/>
 
