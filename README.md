@@ -1,6 +1,6 @@
 # Hello World, I'm Emily 👋
 
-I'm in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently studying Computer Science and Business Management. I'm fascinated by the intersection between society, health care, and computing!
+I'm currently a software engineer intern at Apple, and am also in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, studying Computer Science and Business Management. I'm fascinated by the intersection between society, health care, and computing!
 
 <br/>
 
@@ -9,7 +9,7 @@ I'm in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, currently s
 
 - 📍  Originally from Ottawa, Ontario; currently located in Vancouver, BC
 - 🌱  Currently learning Typescript, NodeJS, and React
-- 💻  TAing a second-year computer science course
+- 💻  Previous TA for a second-year computer science course (CPSC 210) and first-year introductory cs course (CPSC 110)
 - 🌐  Feel free to visit my [website](https://emilylynnchen.netlify.app/) to learn more!
 
 
