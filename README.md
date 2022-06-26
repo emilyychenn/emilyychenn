@@ -1,6 +1,6 @@
 # Hello World, I'm Emily 👋
 
-I'm currently a software engineer intern at Apple, and am also in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, studying Computer Science and Business Management. I'm fascinated by the intersection between society, health care, and computing!
+I'm currently a software engineer intern at Microsoft (prev at Apple ), and am also in my third year at [UBC](https://www.ubc.ca/) in Vancouver, BC, studying Computer Science and Business Management. I'm fascinated by the intersection between society, health care, and computing!
 
 <br/>
 
