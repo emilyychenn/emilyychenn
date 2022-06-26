@@ -7,8 +7,8 @@ I'm currently a software engineer intern at Microsoft (prev at Apple ), and a
 
 ## About Me
 
-- 📍  Originally from Ottawa, Ontario; currently located in Vancouver, BC
-- 🌱  Currently learning Typescript, NodeJS, and React
+- 📍  Originally from Ottawa, Ontario; go to school in Vancouver, BC; and am currently located in Seattle, WA
+- 🌱  Currently learning React
 - 💻  Previous TA for a second-year computer science course (CPSC 210) and first-year introductory cs course (CPSC 110)
 - 🌐  Feel free to visit my [website](https://emilylynnchen.netlify.app/) to learn more!
 
