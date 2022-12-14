@@ -9,7 +9,7 @@ I'm currently a software engineer intern at Snap 👻 (prev at Apple  and Mic
 
 - 📍  Originally from Ottawa, Ontario; go to school in Vancouver, BC; and am currently located in Los Angeles, CA
 - 🌱  Currently learning Unity-like development
-- 💻  Previous TA for a second-year computer science course (CPSC 210) and first-year introductory cs course (CPSC 110)
+- 💻  TA for CPSC 213, previous TA for a second-year computer science course (CPSC 210) and first-year introductory cs course (CPSC 110)
 - 🌐  Feel free to visit my [website](https://emilylynnchen.netlify.app/) to learn more!
 
 
