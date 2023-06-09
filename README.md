@@ -1,6 +1,6 @@
 # Hello World, I'm Emily 👋
 
-I'm currently a software engineer intern at Apple  (prev at Snap 👻 and Microsoft (x2)), and am also in my senior year at [UBC](https://www.ubc.ca/) in Vancouver, BC, studying Computer Science and Business Management. I'm fascinated by AR/VR, as well as the intersection between society, health care, and computing!
+I'm currently a software engineer intern at Apple  (prev at Snap 👻 and Microsoft), and am also in my senior year at [UBC](https://www.ubc.ca/) in Vancouver, BC, studying Computer Science and Business Management. I'm fascinated by AR/VR, as well as the intersection between society, health care, and computing!
 
 <br/>
 
